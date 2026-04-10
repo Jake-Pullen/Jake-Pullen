@@ -1,6 +1,6 @@
 # Jake Pullen
 
-hello@jake-is.me | [Personal Website](www.jake-is.me)
+hello@jake-is.me | [Personal Website](https://www.jake-is.me)
 
 Senior Data Engineer specializing in regulated industries and telemetry processing
 
